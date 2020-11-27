@@ -286,7 +286,7 @@ Make test last 1 minute (see Scheduler)</stringProp>
           <collectionProp name="Arguments.arguments">
             <elementProp name="elasticsearchCluster" elementType="Argument">
               <stringProp name="Argument.name">elasticsearchCluster</stringProp>
-              <stringProp name="Argument.value">elasticsearch:9300</stringProp>
+              <stringProp name="Argument.value">46.101.137.88:9300</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="clusterName" elementType="Argument">
